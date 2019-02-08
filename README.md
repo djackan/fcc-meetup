@@ -42,4 +42,4 @@ This repository contains presentation/files for the [FCC Sacramento](https://www
 
 Follow and complete readme files within this repository
 
-GAH what a PITA
+plz work
